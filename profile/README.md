@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+
+![vanni-logo](../vaginessa-logo.png)
 <!--
 
 **Here are some ideas to get you started:**
