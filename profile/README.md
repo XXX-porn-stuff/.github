@@ -4,7 +4,11 @@
 
 Bocking ads, popups, redirects and all this annoying things is essential.
 I prefered HOSTS based blocking on Windows and rooted Androids..
-Recently i switched back to NO-ROOT on Android. Non-Root solutions involve a local VPN mostly, which i consider not 
+Recently i switched back to NO-ROOT on Android.
+Non-Root solutions involve a local VPN mostly, which for me is a no-go to work with on a daily basis.
+On Windows i noticed that a reasonable good blocking HOSTS file gets realky huge,
+which slowed down my good old Windows 8.1 machine to a non- usable state.
+
 
 ![vanni-logo](./vaginessa-logo.png)
 <!--
